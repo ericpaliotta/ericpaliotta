@@ -1,7 +1,7 @@
 ## About Me
 I am an Undergraduate student from Warwick RI, USA.
 - Current student at the University of St. Andrews pursuing a joint BCs in Physics and Computer Science
-- I have a range of experience in multiple languages on multiple different projects including: Python, C, Java, and Lua
+- I have a range of experience in multiple languages on multiple different projects including: Python, Go, Java, and Lua
 <br>
 
 ## Connect With Me
